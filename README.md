@@ -1,9 +1,9 @@
-### Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator
+## Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator
 
-## DATE : 22-04-2024
-## NAME : VAISHNAVI M													             
-## ROLLNUMBER :  212221040175
-## DEPARTMENT : CSE
+### DATE : 22-04-2024
+### NAME : VAISHNAVI M													             
+### ROLLNUMBER :  212221040175
+### DEPARTMENT : CSE
 
 ### Aim :
 
