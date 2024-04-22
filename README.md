@@ -1,4 +1,4 @@
-![WhatsApp Image 2024-04-22 at 1 36 19 PM (2)](https://github.com/Vaish-1011/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/135130074/b30b8ff4-db0e-4a6d-90a0-68428a3d4b57)# Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-
+### Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator
 
 ## DATE : 22-04-2024
 ## NAME : VAISHNAVI M													             
