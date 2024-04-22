@@ -1,8 +1,16 @@
-# Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-
+![WhatsApp Image 2024-04-22 at 1 36 19 PM (2)](https://github.com/Vaish-1011/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/135130074/b30b8ff4-db0e-4a6d-90a0-68428a3d4b57)# Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-
+
+## DATE : 22-04-2024
+## NAME : VAISHNAVI M													             
+## ROLLNUMBER :  212221040175
+## DEPARTMENT : CSE
 
 ### Aim :
+
       To pick and place a regular shape using two finger gripper on the conveyor belt 
+      
 ### Equipment Required: 
+
       Instrial manipulator , teach pendant and associated program platform , two finger dh gripper 
       
 ### Theory: 
@@ -79,37 +87,35 @@ Installation position: floor, ceiling, walls.
 ![image](https://user-images.githubusercontent.com/36288975/201621235-3b8b46a9-3c19-4207-9ea2-6a7954eb6135.png)
 and click on the connect icon 
 
-3. click on the 
+### Program
 
+![WhatsApp Image 2024-04-22 at 1 36 20 PM](https://github.com/Vaish-1011/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/135130074/50cc9992-243c-4ab5-9784-16642de0a3ef)
 
+![WhatsApp Image 2024-04-22 at 1 36 21 PM (1)](https://github.com/Vaish-1011/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/135130074/7a2e2065-3577-4b47-918b-496281ca90b6)
 
+![WhatsApp Image 2024-04-22 at 1 36 21 PM](https://github.com/Vaish-1011/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/135130074/f340c6b0-e4d6-47f1-a803-3250b792fc01)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+![WhatsApp Image 2024-04-22 at 1 36 22 PM](https://github.com/Vaish-1011/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/135130074/e6a7b22e-2998-4184-ab05-8c9bb2c971db)
 
 ### output video and screen shots of pick and place 
 
+![WhatsApp Image 2024-04-22 at 1 36 19 PM](https://github.com/Vaish-1011/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/135130074/9bdaa357-150f-4ec7-8e24-c26948fd574e)
 
+![WhatsApp Image 2024-04-22 at 1 36 19 PM (1)](https://github.com/Vaish-1011/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/135130074/8fcf56df-bd55-4d91-a26d-ebb416c11def)
 
+![WhatsApp Image 2024-04-22 at 1 36 19 PM (2)](https://github.com/Vaish-1011/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/135130074/24b049d5-edb0-4bf8-b3aa-adf9e07b34a5)
 
+![WhatsApp Image 2024-04-22 at 1 36 18 PM](https://github.com/Vaish-1011/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/135130074/da615e3d-f4f0-4732-8bfc-7cf13296e5ad)
 
+![WhatsApp Image 2024-04-22 at 1 36 18 PM (1)](https://github.com/Vaish-1011/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/135130074/dc8efc78-8819-4b18-be6e-2eeeeef2c1c0)
 
+![WhatsApp Image 2024-04-22 at 1 36 17 PM](https://github.com/Vaish-1011/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/135130074/5dd394d8-8bc7-4d7c-866b-807ce9a0fe2f)
+
+![WhatsApp Image 2024-04-22 at 1 36 17 PM (1)](https://github.com/Vaish-1011/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/135130074/61d0f023-2bb5-4e96-8494-16884836f71e)
+
+![WhatsApp Image 2024-04-22 at 1 36 16 PM](https://github.com/Vaish-1011/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/135130074/841e6274-395f-4168-aa3b-3c68a60e47f5)
+
+https://drive.google.com/file/d/1LfLNZSjMv3GXcCaO1WVcT3xeU3UIM5KF/view?usp=drivesdk
 
 ### Results: 
-
-
-
-
-
-
+Thus the pick and place a regular shape using two finger gripper on the conveyor belt is performed.
