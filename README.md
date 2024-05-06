@@ -115,7 +115,47 @@ and click on the connect icon
 
 ![WhatsApp Image 2024-04-22 at 1 36 16 PM](https://github.com/Vaish-1011/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/135130074/841e6274-395f-4168-aa3b-3c68a60e47f5)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 https://drive.google.com/file/d/1LfLNZSjMv3GXcCaO1WVcT3xeU3UIM5KF/view?usp=drivesdk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### Results: 
 Thus the pick and place a regular shape using two finger gripper on the conveyor belt is performed.
